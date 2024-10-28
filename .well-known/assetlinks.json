@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.s4d.telepizza_es.pre",
+      "sha256_cert_fingerprints": [
+        "DD:BB:25:C2:FE:44:46:C4:9C:83:7A:63:F4:73:60:26:3E:28:6C:96:E4:6D:B3:04:AF:11:86:EE:19:4F:B0:A7",
+        "8D:C2:0B:39:2F:B3:05:16:4F:4A:69:B0:20:61:98:B5:B9:00:66:C2:64:E8:09:5E:8F:59:D0:BE:84:56:96:F6"
+      ]
+    }
+  }
+]
